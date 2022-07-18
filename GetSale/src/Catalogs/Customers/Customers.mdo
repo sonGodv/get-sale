@@ -7,14 +7,14 @@
     <listType typeId="1aefcc70-95b2-470f-bc87-a61cbffbeffd" valueTypeId="674f3701-c4d6-49d0-bfe3-e2c37980969e"/>
     <managerType typeId="b5f58eef-100f-4b90-9572-bbb58f79eaf5" valueTypeId="f8c806d2-0e6c-42ee-a29c-bf01ebde0287"/>
   </producedTypes>
-  <name>Клиенты</name>
+  <name>Customers</name>
   <synonym>
     <key>ru</key>
-    <value>Клиенты</value>
+    <value>Customers</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Клиенты.StandardAttribute.Description</inputByString>
-  <inputByString>Catalog.Клиенты.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Customers.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Customers.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>

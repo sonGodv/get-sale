@@ -7,13 +7,13 @@
     <listType typeId="18588c15-98b6-4072-aa6f-8dee5efa2740" valueTypeId="7459d359-e48c-4f07-ae5b-ef1f77d7b553"/>
     <managerType typeId="a03b16e3-3c00-4581-8b02-84d020b10e0a" valueTypeId="76a0c37f-ad59-4538-896c-d0e95eef9ad0"/>
   </producedTypes>
-  <name>ПриходнаяНакладная</name>
+  <name>PurchaseInvoice</name>
   <synonym>
     <key>ru</key>
-    <value>Приходная накладная</value>
+    <value>Purchase invoice</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Document.ПриходнаяНакладная.StandardAttribute.Number</inputByString>
+  <inputByString>Document.PurchaseInvoice.StandardAttribute.Number</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>
@@ -23,7 +23,7 @@
   <numberAllowedLength>Variable</numberAllowedLength>
   <checkUnique>true</checkUnique>
   <autonumbering>true</autonumbering>
-  <registerRecords>AccumulationRegister.Остатки</registerRecords>
+  <registerRecords>AccumulationRegister.Remains</registerRecords>
   <postInPrivilegedMode>true</postInPrivilegedMode>
   <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
 </mdclass:Document>

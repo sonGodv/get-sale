@@ -10,12 +10,12 @@
     <value>Get sale 83</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <defaultForm>DataProcessor.getSale_83.Form.Форма</defaultForm>
+  <defaultForm>DataProcessor.getSale_83.Form.Form</defaultForm>
   <forms uuid="0696fa56-d5ca-41da-b9b6-24f13ec3e212">
-    <name>Форма</name>
+    <name>Form</name>
     <synonym>
       <key>ru</key>
-      <value>Форма</value>
+      <value>Form</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>

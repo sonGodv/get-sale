@@ -8,9 +8,9 @@
   <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="a8887002-3048-4e64-b384-bf3283247865"/>
   <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="9941b869-63a8-4890-9a6d-20a0b0465114"/>
   <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="81459644-ee75-44d6-ab96-219d7ee17d37"/>
+  <configurationExtensionCompatibilityMode>8.3.20</configurationExtensionCompatibilityMode>
   <defaultRunMode>ManagedApplication</defaultRunMode>
   <usePurposes>PersonalComputer</usePurposes>
-  <scriptVariant>Russian</scriptVariant>
   <usedMobileApplicationFunctionalities>
     <functionality>
       <use>true</use>
@@ -25,6 +25,7 @@
   <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
   <modalityUseMode>DontUse</modalityUseMode>
   <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.20</compatibilityMode>
   <languages uuid="6ddf5d0b-fd1d-49c5-beb9-6f5d858f5edf">
     <name>Русский</name>
     <synonym>
@@ -40,15 +41,15 @@
   <constants>Constant.БазОтпустил</constants>
   <constants>Constant.БазВалДоход</constants>
   <constants>Constant.УстановитьАтрибут</constants>
-  <catalogs>Catalog.Клиенты</catalogs>
-  <catalogs>Catalog.Склады</catalogs>
-  <catalogs>Catalog.Фирмы</catalogs>
-  <documents>Document.ПриходнаяНакладная</documents>
-  <enums>Enum.ВидТорговли</enums>
-  <enums>Enum.ТипКонтрагента</enums>
-  <enums>Enum.ВидУчета</enums>
-  <enums>Enum.ТипыЦен</enums>
-  <enums>Enum.ВидыТМЦ</enums>
+  <catalogs>Catalog.Customers</catalogs>
+  <catalogs>Catalog.Warehouses</catalogs>
+  <catalogs>Catalog.Firms</catalogs>
+  <documents>Document.PurchaseInvoice</documents>
+  <enums>Enum.TradeType</enums>
+  <enums>Enum.CounterpartyType</enums>
+  <enums>Enum.AccountingType</enums>
+  <enums>Enum.PriceTypes</enums>
+  <enums>Enum.TypesOfInventory</enums>
   <dataProcessors>DataProcessor.getSale_83</dataProcessors>
-  <accumulationRegisters>AccumulationRegister.Остатки</accumulationRegisters>
+  <accumulationRegisters>AccumulationRegister.Remains</accumulationRegisters>
 </mdclass:Configuration>

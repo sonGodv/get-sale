@@ -8,19 +8,19 @@
     <recordKeyType typeId="aa17877b-2de0-4a41-882b-5df82f8d38b3" valueTypeId="2f7a5215-7c3c-4f68-abd0-d3dc3ffb123f"/>
     <recordType typeId="8d5b1a9b-d510-453d-afd1-3109bf4d2ca3" valueTypeId="4455425b-5c93-4719-a563-d90b77c35b61"/>
   </producedTypes>
-  <name>Остатки</name>
+  <name>Remains</name>
   <synonym>
     <key>ru</key>
-    <value>Остатки</value>
+    <value>Remains</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
   <dataLockControlMode>Managed</dataLockControlMode>
   <enableTotalsSplitting>true</enableTotalsSplitting>
   <resources uuid="7b230bc3-46dc-44d8-979d-b53b6be57970">
-    <name>СводныйОстаток</name>
+    <name>FreeRemaining</name>
     <synonym>
       <key>ru</key>
-      <value>Сводный остаток</value>
+      <value>Free remaining</value>
     </synonym>
     <type>
       <types>Number</types>

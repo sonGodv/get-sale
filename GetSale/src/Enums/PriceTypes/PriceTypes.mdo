@@ -5,32 +5,32 @@
     <listType typeId="f47af024-f13b-4a80-ae06-0c79d78408f7" valueTypeId="dc2246ff-9894-445e-85cc-d05d0028dd64"/>
     <managerType typeId="04273f41-ff2b-4a1e-9c4a-f0b0a871e1b8" valueTypeId="7fdea573-cf39-4e44-96df-55aeb1cd0766"/>
   </producedTypes>
-  <name>ТипыЦен</name>
+  <name>PriceTypes</name>
   <synonym>
     <key>ru</key>
-    <value>Типы цен</value>
+    <value>Price types</value>
   </synonym>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
   <enumValues uuid="cc512eb4-e798-42bf-9e35-31b59e198090">
-    <name>Категория1</name>
+    <name>Category1</name>
     <synonym>
       <key>ru</key>
-      <value>Категория1</value>
+      <value>Category1</value>
     </synonym>
   </enumValues>
   <enumValues uuid="aedc9c6b-f337-4cdc-bb03-f0e9d872f019">
-    <name>Категория2</name>
+    <name>Category2</name>
     <synonym>
       <key>ru</key>
-      <value>Категория2</value>
+      <value>Category2</value>
     </synonym>
   </enumValues>
   <enumValues uuid="a6f7877c-ec57-467d-9d24-baf137238a3a">
-    <name>Категория3</name>
+    <name>Category3</name>
     <synonym>
       <key>ru</key>
-      <value>Категория3</value>
+      <value>Category3</value>
     </synonym>
   </enumValues>
 </mdclass:Enum>

@@ -5,18 +5,18 @@
     <listType typeId="33861671-534e-443c-bcaa-b3beeb2efaa0" valueTypeId="eac5d639-4d64-4275-a546-b17d1cca9d04"/>
     <managerType typeId="27d61c30-6fde-4ec4-bc5b-fb3f44678dcb" valueTypeId="58d2b055-5007-4bf7-a50c-435e6b39c5dd"/>
   </producedTypes>
-  <name>ВидУчета</name>
+  <name>AccountingType</name>
   <synonym>
     <key>ru</key>
-    <value>Вид учета</value>
+    <value>Accounting type</value>
   </synonym>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
   <enumValues uuid="4821f7cd-8c03-43e6-b4f5-a2feb42d0742">
-    <name>Совместный</name>
+    <name>Joint</name>
     <synonym>
       <key>ru</key>
-      <value>Совместный</value>
+      <value>Joint</value>
     </synonym>
   </enumValues>
 </mdclass:Enum>

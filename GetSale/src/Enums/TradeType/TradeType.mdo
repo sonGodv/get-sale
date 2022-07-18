@@ -5,25 +5,25 @@
     <listType typeId="a4a822a2-16b8-4e41-bfb9-770ded8b1dd9" valueTypeId="93ab9685-a40e-4595-be75-178730737d0c"/>
     <managerType typeId="34b539d6-557c-4e77-a82f-64c4d7518b0c" valueTypeId="0835e2d2-ada4-4ab2-90c4-66af3502ae48"/>
   </producedTypes>
-  <name>ВидТорговли</name>
+  <name>TradeType</name>
   <synonym>
     <key>ru</key>
-    <value>Вид торговли</value>
+    <value>Trade type</value>
   </synonym>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
   <enumValues uuid="6b4b0f87-a370-4ae6-b4b7-7b4b4f1bf5cc">
-    <name>ПереводНаКарту</name>
+    <name>TransferToCard</name>
     <synonym>
       <key>ru</key>
-      <value>Перевод на карту</value>
+      <value>Transfer to card</value>
     </synonym>
   </enumValues>
   <enumValues uuid="8aaa487f-356e-4b55-9061-415b70061872">
-    <name>Наложка</name>
+    <name>CashOnDelivery</name>
     <synonym>
       <key>ru</key>
-      <value>Наложка</value>
+      <value>Cash on delivery</value>
     </synonym>
   </enumValues>
   <enumValues uuid="04b0bbbf-18f8-4a61-b05d-aad031b662be">
@@ -34,24 +34,24 @@
     </synonym>
   </enumValues>
   <enumValues uuid="393fefb5-e48d-43f4-957b-7f92fd6c2d10">
-    <name>НоваяПочта</name>
+    <name>NovaPosta</name>
     <synonym>
       <key>ru</key>
-      <value>Новая почта</value>
+      <value>Nova posta</value>
     </synonym>
   </enumValues>
   <enumValues uuid="2fd7c6ca-c6b1-40a8-920a-3b19516158ee">
-    <name>УкрПочта</name>
+    <name>UkrPosta</name>
     <synonym>
       <key>ru</key>
-      <value>Укр почта</value>
+      <value>Ukr posta</value>
     </synonym>
   </enumValues>
   <enumValues uuid="6d53ab22-58f0-4b7c-9084-d8b85253a411">
-    <name>Самовывоз</name>
+    <name>PickUp</name>
     <synonym>
       <key>ru</key>
-      <value>Самовывоз</value>
+      <value>Pick up</value>
     </synonym>
   </enumValues>
 </mdclass:Enum>

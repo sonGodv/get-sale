@@ -7,14 +7,14 @@
     <listType typeId="33caccd9-4c49-47b3-93b8-5e4d181a03c9" valueTypeId="d6e0784c-3d6b-427a-8be3-9e90bd8be134"/>
     <managerType typeId="b8979860-3505-4d8b-aeca-22cc805d1cb0" valueTypeId="5e1b2b66-ab4b-462a-801a-b7d1ad51f898"/>
   </producedTypes>
-  <name>Фирмы</name>
+  <name>Firms</name>
   <synonym>
     <key>ru</key>
-    <value>Фирмы</value>
+    <value>Firms</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Фирмы.StandardAttribute.Description</inputByString>
-  <inputByString>Catalog.Фирмы.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Firms.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Firms.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>

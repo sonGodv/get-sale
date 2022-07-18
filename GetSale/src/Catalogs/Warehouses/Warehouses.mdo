@@ -7,14 +7,14 @@
     <listType typeId="5e221a3b-ddf2-4c0b-8083-f674bd3cfd3a" valueTypeId="2d72ff7a-7d28-46a9-b15e-8a9083236a8a"/>
     <managerType typeId="0d7a15f2-42a9-4fb3-9e48-2088795bedf8" valueTypeId="bc781962-a48c-464f-bc7c-551ccfea77e2"/>
   </producedTypes>
-  <name>Склады</name>
+  <name>Warehouses</name>
   <synonym>
     <key>ru</key>
-    <value>Склады</value>
+    <value>Warehouses</value>
   </synonym>
   <useStandardCommands>true</useStandardCommands>
-  <inputByString>Catalog.Склады.StandardAttribute.Description</inputByString>
-  <inputByString>Catalog.Склады.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Warehouses.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Warehouses.StandardAttribute.Code</inputByString>
   <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
   <createOnInput>Use</createOnInput>
   <dataLockControlMode>Managed</dataLockControlMode>

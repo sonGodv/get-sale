@@ -5,10 +5,10 @@
     <listType typeId="018e3ded-6f7f-49ae-bb81-77bfa764aff0" valueTypeId="7edc3fd5-4afb-42c8-a10c-1b2b7aacfe33"/>
     <managerType typeId="d5c28a91-81c9-41f3-b81b-eedf0fb716ef" valueTypeId="c9d5ef20-6902-40de-bab1-afeed4f36ffb"/>
   </producedTypes>
-  <name>ВидыТМЦ</name>
+  <name>TypesOfInventory</name>
   <synonym>
     <key>ru</key>
-    <value>Виды ТМЦ</value>
+    <value>Types of inventory</value>
   </synonym>
   <quickChoice>true</quickChoice>
   <choiceMode>BothWays</choiceMode>
