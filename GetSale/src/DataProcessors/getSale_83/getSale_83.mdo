@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3500029e-6799-45a5-a701-2655e6fc3afa">
+  <producedTypes>
+    <objectType typeId="7ab88f7b-95b9-4e1a-85a4-93618fc009a4" valueTypeId="a027937a-5b3f-48fb-83ab-558d1ada3e76"/>
+    <managerType typeId="ab1be7bb-3a5d-46ad-b9f2-093c9b2f77bf" valueTypeId="52dab86c-b918-46c0-b571-8293cd0b9106"/>
+  </producedTypes>
+  <name>getSale_83</name>
+  <synonym>
+    <key>ru</key>
+    <value>Get sale 83</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <defaultForm>DataProcessor.getSale_83.Form.Форма</defaultForm>
+  <forms uuid="0696fa56-d5ca-41da-b9b6-24f13ec3e212">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:DataProcessor>

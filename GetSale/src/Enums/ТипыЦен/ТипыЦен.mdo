@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="702c71c6-3097-444d-9f9f-d7fe4eca133b">
+  <producedTypes>
+    <refType typeId="ee2f8046-07c8-4395-8f1f-b210d1108fb4" valueTypeId="eaa7d454-8527-4832-9e1b-86c3b443978f"/>
+    <listType typeId="f47af024-f13b-4a80-ae06-0c79d78408f7" valueTypeId="dc2246ff-9894-445e-85cc-d05d0028dd64"/>
+    <managerType typeId="04273f41-ff2b-4a1e-9c4a-f0b0a871e1b8" valueTypeId="7fdea573-cf39-4e44-96df-55aeb1cd0766"/>
+  </producedTypes>
+  <name>ТипыЦен</name>
+  <synonym>
+    <key>ru</key>
+    <value>Типы цен</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="cc512eb4-e798-42bf-9e35-31b59e198090">
+    <name>Категория1</name>
+    <synonym>
+      <key>ru</key>
+      <value>Категория1</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="aedc9c6b-f337-4cdc-bb03-f0e9d872f019">
+    <name>Категория2</name>
+    <synonym>
+      <key>ru</key>
+      <value>Категория2</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="a6f7877c-ec57-467d-9d24-baf137238a3a">
+    <name>Категория3</name>
+    <synonym>
+      <key>ru</key>
+      <value>Категория3</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

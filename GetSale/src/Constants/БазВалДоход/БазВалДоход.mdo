@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6717242e-6b0d-4190-8a18-669a3cd6197c">
+  <producedTypes>
+    <managerType typeId="550b8224-9c35-4935-80fd-297aebd5ae08" valueTypeId="abbe2981-2680-48db-8551-e0938d21be6b"/>
+    <valueManagerType typeId="cf9c3637-0039-4d13-90aa-3f81916ed14c" valueTypeId="eaf3f96b-22f9-4a0f-8c64-c7cbb49753a1"/>
+    <valueKeyType typeId="abb7dedc-b68f-475d-ae54-5533131125cf" valueTypeId="61b53a8d-011b-4019-b5b1-c1c185e87f26"/>
+  </producedTypes>
+  <name>БазВалДоход</name>
+  <synonym>
+    <key>ru</key>
+    <value>Баз вал доход</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

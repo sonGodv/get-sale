@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="36752348-33ff-41be-89b5-7d177d5f0123">
+  <producedTypes>
+    <managerType typeId="90123ee1-8820-4b1e-a628-1c74ef4fe3af" valueTypeId="463456ac-14d0-4d6a-9500-bea6e1f20a75"/>
+    <valueManagerType typeId="6cc05353-5e78-4032-b7fc-a6c9770851c9" valueTypeId="76b10a1f-b4df-45e4-88d0-d14a26bdbd3f"/>
+    <valueKeyType typeId="603ec137-be43-468d-ab0d-5fb7f02387a2" valueTypeId="53c9a94e-708c-4a4e-9ee3-43b181e03d95"/>
+  </producedTypes>
+  <name>Гривня</name>
+  <synonym>
+    <key>ru</key>
+    <value>Гривня</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

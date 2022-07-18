@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0bd55630-f87d-4bd7-b103-fc5cdcc9460a">
+  <name>Конфигурация</name>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="a9eb6caa-694d-4c93-8999-78eb4a95bab0"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="f3336afb-d990-4f50-a5dc-7c8646272ec2"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="27881587-5a95-4870-bc10-3b58a5bcb245"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="c9716b26-c05b-4f02-86cb-42e4448307a0"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="a8887002-3048-4e64-b384-bf3283247865"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="9941b869-63a8-4890-9a6d-20a0b0465114"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="81459644-ee75-44d6-ab96-219d7ee17d37"/>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <languages uuid="6ddf5d0b-fd1d-49c5-beb9-6f5d858f5edf">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <constants>Constant.Гривня</constants>
+  <constants>Constant.БазСклад</constants>
+  <constants>Constant.БазНДС</constants>
+  <constants>Constant.БазФирма</constants>
+  <constants>Constant.БазОтпустил</constants>
+  <constants>Constant.БазВалДоход</constants>
+  <constants>Constant.УстановитьАтрибут</constants>
+  <catalogs>Catalog.Клиенты</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
+  <catalogs>Catalog.Фирмы</catalogs>
+  <documents>Document.ПриходнаяНакладная</documents>
+  <enums>Enum.ВидТорговли</enums>
+  <enums>Enum.ТипКонтрагента</enums>
+  <enums>Enum.ВидУчета</enums>
+  <enums>Enum.ТипыЦен</enums>
+  <enums>Enum.ВидыТМЦ</enums>
+  <dataProcessors>DataProcessor.getSale_83</dataProcessors>
+  <accumulationRegisters>AccumulationRegister.Остатки</accumulationRegisters>
+</mdclass:Configuration>

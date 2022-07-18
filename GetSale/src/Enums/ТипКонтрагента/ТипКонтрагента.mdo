@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="869f9a3c-96b3-4b3d-9196-107fae245705">
+  <producedTypes>
+    <refType typeId="f0b6d671-ae12-4875-9583-0f33b29b1771" valueTypeId="0e529243-a3d2-497b-a96e-b6eb268515d5"/>
+    <listType typeId="5da3a9c9-96eb-491d-a9b7-0e53f5cdd6c0" valueTypeId="9c4db7e3-d5b5-422c-a5a0-5ee7ef13b60f"/>
+    <managerType typeId="6ad34c7c-8610-4f1a-b3c4-049fcc99325f" valueTypeId="bfb94061-2b6b-4386-bb97-e8edcac346b5"/>
+  </producedTypes>
+  <name>ТипКонтрагента</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тип контрагента</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="09beac5e-98db-452c-8ecc-11179927453a">
+    <name>ТТ</name>
+    <synonym>
+      <key>ru</key>
+      <value>ТТ</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

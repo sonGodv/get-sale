@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Constant xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="5e4d3e36-2ceb-464c-bf40-474a52bce18c">
+  <producedTypes>
+    <managerType typeId="ce60d789-0d27-42f1-b5eb-d7cb5b03e862" valueTypeId="31a94cef-7d76-4d28-8a23-293b5e17e3e7"/>
+    <valueManagerType typeId="505d6091-34ea-4e7f-8f00-5b1a6ef81c2a" valueTypeId="0b64188c-e48f-4a9a-a7a8-2d9ad1c95aed"/>
+    <valueKeyType typeId="7d22a802-2451-49fa-bfb7-17c93a1314bc" valueTypeId="070eecb5-f29d-44f1-a8fa-06a8ff39a768"/>
+  </producedTypes>
+  <name>УстановитьАтрибут</name>
+  <synonym>
+    <key>ru</key>
+    <value>Установить атрибут</value>
+  </synonym>
+  <type>
+    <types>String</types>
+    <stringQualifiers>
+      <length>10</length>
+    </stringQualifiers>
+  </type>
+  <useStandardCommands>true</useStandardCommands>
+  <minValue xsi:type="core:UndefinedValue"/>
+  <maxValue xsi:type="core:UndefinedValue"/>
+  <dataLockControlMode>Managed</dataLockControlMode>
+</mdclass:Constant>

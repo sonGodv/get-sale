@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="dcd147f0-e4df-442c-897c-e77283cb9967">
+  <producedTypes>
+    <objectType typeId="5cf0404d-82fb-4450-b2be-a2a60a8c4cd7" valueTypeId="f5c65852-5871-4777-a67b-814e5fa5b8b3"/>
+    <refType typeId="78727e61-e042-40a0-9b4d-13ef1ff3d3ba" valueTypeId="202de2a0-bcf3-4a3a-98d8-336c4a20ce8f"/>
+    <selectionType typeId="37b82c08-f5d1-4c3b-984e-affd7a85222a" valueTypeId="e12c32b1-7903-4e07-93b4-534127e916ec"/>
+    <listType typeId="33caccd9-4c49-47b3-93b8-5e4d181a03c9" valueTypeId="d6e0784c-3d6b-427a-8be3-9e90bd8be134"/>
+    <managerType typeId="b8979860-3505-4d8b-aeca-22cc805d1cb0" valueTypeId="5e1b2b66-ab4b-462a-801a-b7d1ad51f898"/>
+  </producedTypes>
+  <name>Фирмы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Фирмы</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Фирмы.StandardAttribute.Description</inputByString>
+  <inputByString>Catalog.Фирмы.StandardAttribute.Code</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>

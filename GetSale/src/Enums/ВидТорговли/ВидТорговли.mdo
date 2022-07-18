@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4f0ad246-bc1c-48d1-a45c-e6a2510cc147">
+  <producedTypes>
+    <refType typeId="08c3b316-6008-4192-8115-91450f6b0a48" valueTypeId="19b1ca12-68f1-44b5-bbc4-db60eafe29a6"/>
+    <listType typeId="a4a822a2-16b8-4e41-bfb9-770ded8b1dd9" valueTypeId="93ab9685-a40e-4595-be75-178730737d0c"/>
+    <managerType typeId="34b539d6-557c-4e77-a82f-64c4d7518b0c" valueTypeId="0835e2d2-ada4-4ab2-90c4-66af3502ae48"/>
+  </producedTypes>
+  <name>ВидТорговли</name>
+  <synonym>
+    <key>ru</key>
+    <value>Вид торговли</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="6b4b0f87-a370-4ae6-b4b7-7b4b4f1bf5cc">
+    <name>ПереводНаКарту</name>
+    <synonym>
+      <key>ru</key>
+      <value>Перевод на карту</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="8aaa487f-356e-4b55-9061-415b70061872">
+    <name>Наложка</name>
+    <synonym>
+      <key>ru</key>
+      <value>Наложка</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="04b0bbbf-18f8-4a61-b05d-aad031b662be">
+    <name>WayForPay</name>
+    <synonym>
+      <key>ru</key>
+      <value>Way for pay</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="393fefb5-e48d-43f4-957b-7f92fd6c2d10">
+    <name>НоваяПочта</name>
+    <synonym>
+      <key>ru</key>
+      <value>Новая почта</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="2fd7c6ca-c6b1-40a8-920a-3b19516158ee">
+    <name>УкрПочта</name>
+    <synonym>
+      <key>ru</key>
+      <value>Укр почта</value>
+    </synonym>
+  </enumValues>
+  <enumValues uuid="6d53ab22-58f0-4b7c-9084-d8b85253a411">
+    <name>Самовывоз</name>
+    <synonym>
+      <key>ru</key>
+      <value>Самовывоз</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
