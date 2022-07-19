@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Document xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bbca56fb-1335-4c73-88e1-cfcbf1234e88">
+  <producedTypes>
+    <objectType typeId="a21fb619-d099-4353-80ed-cca1b7dcb983" valueTypeId="4fe87ac2-4329-4c7a-a938-6eb3bdffb6fd"/>
+    <refType typeId="ca131402-174b-484e-8612-7d3d9bb16fcc" valueTypeId="4dbaac36-488f-4e3e-9c00-04f9ab19d9fc"/>
+    <selectionType typeId="db26e8ca-d1b1-4bc7-8541-6c6943dd1c3a" valueTypeId="8b33f4f7-6584-41b0-b9c6-0c4634bb4c13"/>
+    <listType typeId="499ecdb5-dd53-496a-8e12-964bcb7d24d7" valueTypeId="9561d717-bf72-4723-933d-a1ffe2754ce4"/>
+    <managerType typeId="e68ba89c-0dc7-41f9-abf1-8635115a262b" valueTypeId="cbecf005-c58b-4f04-824b-bd460a9ec219"/>
+  </producedTypes>
+  <name>SalesInvoice</name>
+  <synonym>
+    <key>ru</key>
+    <value>Sales invoice</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Document.SalesInvoice.StandardAttribute.Number</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <numberType>String</numberType>
+  <numberLength>9</numberLength>
+  <numberAllowedLength>Variable</numberAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <postInPrivilegedMode>true</postInPrivilegedMode>
+  <unpostInPrivilegedMode>true</unpostInPrivilegedMode>
+</mdclass:Document>

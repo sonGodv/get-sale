@@ -45,6 +45,7 @@
   <catalogs>Catalog.Warehouses</catalogs>
   <catalogs>Catalog.Firms</catalogs>
   <documents>Document.PurchaseInvoice</documents>
+  <documents>Document.SalesInvoice</documents>
   <enums>Enum.TradeType</enums>
   <enums>Enum.CounterpartyType</enums>
   <enums>Enum.AccountingType</enums>
